@@ -262,7 +262,7 @@ After installing Apache, I opened a browser and navigated to the EC2’s public 
 🔗 LinkedIn: [www.linkedin.com/in/oladapo568](https://www.linkedin.com/in/oladapo568)
 
 ---
-![AWS Architecture Diagram](brainboard-aws-project.png)
+Brainboard - Terraform 2-Tier Web App on AWS.png
 
 
 
