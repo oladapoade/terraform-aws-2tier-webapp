@@ -2,6 +2,10 @@
 
 This project demonstrates how I deployed a 2-tier architecture on AWS using **Terraform**, including a VPC, public and private subnets, internet gateway, security group, and an EC2 instance. It also documents the tools used, step-by-step commands, screenshots, challenges encountered, and lessons learned.
 
+## 📐 Architecture Diagram
+
+![AWS Architecture Diagram](./Brainboard%20-%20Terraform%202-Tier%20Web%20App%20on%20AWS.png)
+
 ---
 
 ## 📁 Project Structure
@@ -262,7 +266,7 @@ After installing Apache, I opened a browser and navigated to the EC2’s public 
 🔗 LinkedIn: [www.linkedin.com/in/oladapo568](https://www.linkedin.com/in/oladapo568)
 
 ---
-![AWS Architecture Diagram](./Brainboard%20-%20Terraform%202-Tier%20Web%20App%20on%20AWS.png)
+
 
 
 
